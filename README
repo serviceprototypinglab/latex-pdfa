@@ -1,0 +1,10 @@
+This repository contains all files required to produce PDF/A compliant
+documents with a pdflatex workflow. One of them is a template which
+need to be renamed to match the .tex file name and filled out with
+appropriate metadata.
+
+Instructions are here: https://blog.zhaw.ch/icclab/creating-pdfa-documents-for-long-term-archiving/
+
+Switch to the 'minimalexample' folder and run pdflatex on document.tex
+in it to see a first result with dummy data. Use 'diff' to see where
+dummy data was filled in.

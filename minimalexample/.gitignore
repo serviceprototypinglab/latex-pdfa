@@ -1,0 +1,8 @@
+*.pdf                                                                                                                                                                                     
+*.aux                                                                                                                                                                                        
+*.bbl                                                                                                                                                                                        
+*.blg
+*.out
+*.log
+
+*.xmpi
